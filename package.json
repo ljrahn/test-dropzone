@@ -9,8 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@mantine/core": "7.0.1",
-    "@mantine/hooks": "7.0.1",
+    "@mantine/core": "^7.0.2",
+    "@mantine/dropzone": "^7.0.2",
+    "@mantine/hooks": "^7.0.2",
+    "@tabler/icons-react": "^2.35.0",
     "next": "13.4.4",
     "react": "18.2.0",
     "react-dom": "18.2.0"
